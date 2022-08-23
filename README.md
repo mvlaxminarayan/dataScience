@@ -6,7 +6,7 @@ Plant seedling classification
 ###### Desc:
 Determine the plant's species from a photo using CNN classifier.
 ###### Skills & Tools:
-Tensorflow, Keras, CNN, Google Colab.
+Python, Tensorflow, Keras, sklearn, ImageDataGenerator, Google Colab.
 
 ### project 2
 ##### Artificial Neural Networks
@@ -14,7 +14,7 @@ Bank Customer Churn Prediction
 ###### Desc:
 To help the operations team identify the customers that are more likely to churn by building an artificial Neural Network from scratch.
 ###### Skills and Tools:
-Tensorflow, keras, ANN, Google colab
+Python, Tensorflow, keras, sklearn, pandas, Google colab
 
 ### Project 3
 ##### Unsupervised Learning
@@ -59,5 +59,12 @@ EDA, Linear regression, Linear regression assumptions, business insights and sug
 Preliminary Data Analysis. Explore the dataset and practice extracting basic observations about the data. The idea is to get comfortable working in Python.
 ###### Skills and Tools:
 Pandas, NumPy, Visualisation techniques, EDA
+
+### Project 9
+##### NLP - Twitter Sentiment Analysis/classification
+###### Desc:
+Airline Sentiment analysis/classification using NLP & RandomForestClassifier
+###### Skills and Tools:
+Python, NLTK, pandas, BeautifulSoup, wordcloud, sklearn, Google Colab.
 
 
